@@ -1,4 +1,4 @@
-# Sebastian's HTML CSS Assignment 
+# Sebastian's HTML CSS Assignment
 
 By Sebastian
 
